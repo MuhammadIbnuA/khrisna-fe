@@ -72,7 +72,7 @@ function App() {
         <button type="submit">{selectedMenuId ? "Perbarui Data Napi" : "Buat Data Napi"}</button>
       </form>
 
-      <h1>Menu</h1>
+      <h1>Daftar Data Narapidana</h1>
       <table>
         <thead>
           <tr>
